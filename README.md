@@ -1,8 +1,8 @@
-#httpcodes
+# httpcodes
 
 Gives the name of an HTTP status code.
 
-##Commands
+## Commands
 
 - name -> ask for an code
 - help -> shows this message
